@@ -22,19 +22,19 @@
 
 ### Пример обхода в ширину
 
-https://user-images.githubusercontent.com/15179794/40395242-581d17de-5e51-11e8-995f-3ff458393997.png
+![ScreenShot](https://user-images.githubusercontent.com/15179794/40395242-581d17de-5e51-11e8-995f-3ff458393997.png)
 
 ### Пример поиска кратчайшего пути
 
-https://user-images.githubusercontent.com/15179794/40395223-3618cbf6-5e51-11e8-86cc-3ec040d76b31.png
+![ScreenShot](https://user-images.githubusercontent.com/15179794/40395223-3618cbf6-5e51-11e8-86cc-3ec040d76b31.png)
 
 ### Пример поиска минимального остовного дерева
-https://user-images.githubusercontent.com/15179794/40395195-1b28a6c2-5e51-11e8-939e-4dfe6a151761.png
+![ScreenShot](https://user-images.githubusercontent.com/15179794/40395195-1b28a6c2-5e51-11e8-939e-4dfe6a151761.png)
 
 ### Пример удаления информации из БД
 
-https://user-images.githubusercontent.com/15179794/40394966-0f321ade-5e50-11e8-8db4-daab9d842ce4.png
+![ScreenShot](https://user-images.githubusercontent.com/15179794/40394966-0f321ade-5e50-11e8-8db4-daab9d842ce4.png)
 
 ### Пример добавления результата алгоритма в БД
 
-https://user-images.githubusercontent.com/15179794/40395102-b31b951c-5e50-11e8-8ed9-fa58005df5d9.png
+![ScreenShot](https://user-images.githubusercontent.com/15179794/40395102-b31b951c-5e50-11e8-8ed9-fa58005df5d9.png)
