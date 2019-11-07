@@ -18,11 +18,12 @@ Vue.use(VueRouter)
 
 var router = new VueRouter({
   routes: [
+    { path: '', component: Dijkstra },
     { path: '/dijkstra', component: Dijkstra },
     { path: '/search', component: Graph },
     { path: '/buildtree', component: OsTree }
   ]
-}) 
+})
 
 new Vue({
   el: '#app',

@@ -1,7 +1,6 @@
 <template>
 <div id="cont">
     <div class="container-fluid">
-        <!-- <h1 class="main-label">dijkstra algorithm - aisd</h1> -->
         <div class="row justify-content-center">
             <div class="col-md-4 controls">
                 <div class="form-group">
@@ -77,7 +76,7 @@
                 </div>
             </div>
             <div class="col-md-7">
-                <canvas ref="canvas" width="800" height="500"></canvas>               
+                <canvas ref="canvas" width="800" height="500"></canvas>
             </div>
         </div>
     </div>
@@ -97,7 +96,7 @@ import toastr from 'toastr'
     storageBucket: "",
     messagingSenderId: "158823314420"
   };
-  
+
 let app = Firebase.initializeApp(config, 'dijkstralgo');
 let db = app.database();
 let dalgosRef = db.ref('dalgos');

@@ -1,13 +1,11 @@
 <template>
-    <!-- <breadth-first></breadth-first> -->
-    <!-- <dijkstra-algo></dijkstra-algo> -->
     <div id="app">
         <header>
             <div class="header-wrapper">
                 <nav>
-                    <router-link to="/search">6.breadth first search</router-link>
-                    <router-link to="/dijkstra">7.dijkstra's algorithm</router-link>
-                    <router-link to="/buildtree">8.build MST</router-link>
+                    <router-link to="/search">1.breadth first search</router-link>
+                    <router-link to="/dijkstra">2.dijkstra's algorithm</router-link>
+                    <router-link to="/buildtree">3.build MST</router-link>
                 </nav>
             </div>
         </header>
@@ -27,7 +25,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Cambria, Calibri, Arial, sans-serif;
   padding-bottom: 80px;
 }
 
